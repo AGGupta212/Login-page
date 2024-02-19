@@ -1,0 +1,54 @@
+.for-form{
+
+   color: rgb(204, 208, 121);
+   text-align: center;
+   width: 30%;
+
+
+   margin-left: 20%;
+   margin-top: 10% ;
+   margin-left: 30%;
+   margin-right: 10%;
+   background-color: rgb(25, 182, 101);
+   border: 5px solid white;
+   box-shadow: 15px 15px 10px rgb(116, 184, 80);
+
+   
+
+
+}
+.to-use{
+
+background-color: rgb(3, 3, 46); 
+margin-top: 10%;
+
+
+
+}
+.to-form {
+
+
+   text-align: left;
+   padding-left: 20%;
+
+
+
+}
+.for-button {
+
+   
+   border: rgb(0, 0, 0);
+   padding-top: 30px;
+
+
+
+}
+button{
+
+  background-color: rgb(181, 19, 19);
+  border-color: chartreuse;
+  
+
+
+
+}

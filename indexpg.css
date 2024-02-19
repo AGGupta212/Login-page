@@ -1,0 +1,63 @@
+
+.to-content{
+
+
+border-top: 10px solid blue;
+border-bottom: 10px solid rgb(19, 16, 198) ;
+border-left: 10px solid rgb(14, 26, 188) ;
+border-right: 10px solid rgb(19, 16, 183);
+
+
+}
+    
+
+
+
+
+
+
+.header {
+
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px;
+}
+.for-massage{
+
+    background-image:url('forl.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-top: 10px solid blue;
+    text-align: center;
+        padding-top: 20%;
+        padding-bottom: 20%;
+        padding-left: 30%;
+        padding-right: 30%;
+
+}
+.for-text{
+
+    box-shadow: 10px 10px 10px 10px rgb(255, 255, 255);
+    border-color: aliceblue;
+
+
+}
+   button{
+   background-color: rgb(88, 189, 189);
+
+}
+    h1 {
+        color: rgb(206, 31, 31);
+        
+
+
+      }
+
+      
+
+
+
+
+   
